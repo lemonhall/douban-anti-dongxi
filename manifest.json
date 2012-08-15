@@ -2,11 +2,7 @@
   "name" : "反豆瓣的东西",
   "version" : "0.1",
   "description" : "干掉所有的豆瓣东西",
-  "page_action" :
-  {
-    "default_icon" : "sandwich-19.png",
-    "default_title" : "反豆瓣的东西"
-  },
+  "manifest_version": 2,
   "content_scripts" : [
     {
       "matches" : [
